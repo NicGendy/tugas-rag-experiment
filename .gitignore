@@ -2,5 +2,6 @@
 .venv/
 venv/
 pycache/
+**/__pycache__/
 qdrant_data/
 data/uploads/*.pdf
